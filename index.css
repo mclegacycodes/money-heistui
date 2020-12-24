@@ -97,14 +97,14 @@ svg{
 
 #play{
 	background: #EF0E0E;
-	height: 96px;
-	width:96px;
+	height: 68px;
+	width:68px;
 	border-radius: 50%;
-	font-size: 71.63px;
-	padding: 12px;
+	font-size: 60px;
+	padding: 8px;
 	position: absolute;
 	z-index: 50;
-	right: -500px;
+	right: -530px;
 	top:153px;
 
 }
