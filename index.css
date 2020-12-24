@@ -96,9 +96,10 @@ svg{
 }
 
 #play{
+
 	background: #EF0E0E;
-	height: 68px;
-	width:68px;
+	height: 60px;
+	width:60px;
 	border-radius: 50%;
 	font-size: 60px;
 	padding: 8px;
