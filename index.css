@@ -1,0 +1,110 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background: #EF0E0E;
+}
+main{
+	align-items: center;
+	padding-left: 20%;
+}
+#container{
+	display: inline;
+	margin: 0 auto;
+position: relative;
+width: 80%;
+}
+#svg-container{
+	position: relative;
+	overflow: visible;
+    height: 455.61px;
+    width:623.67px;
+    color: white;
+   clip-path: polygon(0 0, 100% 0, 49% 100%, 0% 100%);
+   background: black;
+   box-sizing: border-box;
+   margin-top: 80px;
+   z-index: 20;
+}
+
+#white{
+	background: white;
+	box-sizing: border-box;
+	border-radius: 18px;
+	width: 590px;
+	height: 332px;
+	z-index: 1;
+	float: right;
+	position: absolute;
+	top: 60px;
+	left: 250px;
+	padding-left: 300px;
+	padding-top: 121px;
+	align-items: center;
+	
+	
+}
+#logo-image{
+	margin-left: 40px;
+}
+#season-text{
+	display: block;
+	font-size: 20px;
+	font-weight: 600;
+	margin-left: 70px;
+}
+
+.icon-container{
+	color:white;
+	background: #EF0E0E;
+	height: 25px;
+	width: 25px;
+	padding: 8px;
+	border-radius: 50%;
+}
+.controllers{
+	position: absolute;
+	bottom: 30px;
+	vertical-align: center;
+	left: 75px;
+}
+svg{
+	margin-bottom: -10px;
+}
+.red{
+	color: #EF0E0E;
+	margin-right: 20px;
+}
+.nav{
+	width: 80%;
+	position: relative;
+	top: 20px;
+	right: 270px;
+	left: 20px;
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+
+}
+#image{
+	margin-top: 20px;
+	align-self: center;
+	margin-left: 50px;
+}
+
+#play{
+	background: #EF0E0E;
+	height: 96px
+	width:96px;
+	border-radius: 50%;
+	font-size: 71.63px;
+	padding: 12px;
+	position: absolute;
+	z-index: 50;
+	right: -500px;
+	top:153px;
+
+}
